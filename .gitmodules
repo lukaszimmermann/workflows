@@ -1,0 +1,6 @@
+[submodule "cwl_workflows"]
+	path = cwl_workflows
+	url = https://github.com/common-workflow-language/workflows.git
+[submodule "openms_workflows"]
+	path = openms_workflows
+	url = https://github.com/OpenMS/workflows.git
