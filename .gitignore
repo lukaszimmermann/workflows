@@ -26,7 +26,6 @@
 #archives
 *.bz2
 *.gz
-*.zip
 *.tar
 *.Z
 
